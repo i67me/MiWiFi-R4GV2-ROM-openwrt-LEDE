@@ -4,6 +4,8 @@
 下载：
 https://github.com/i67me/MiWiFi-R4GV2-ROM-openwrt-LEDE/releases/
 
+默认密码:password
+
 说明：
 本是直接使用大佬@MrTaiKe的项目Action_OpenWrt_Xiaomi_R4AGv2提供编译的镜像，但是有想要添加需要的功能
 如：虚拟多拨、负载均衡、FRP等故自己编译了一下，放出来啊供大家使用，可能会有更新，请关注releases谢谢支持！
