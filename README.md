@@ -11,5 +11,6 @@ https://github.com/i67me/MiWiFi-R4GV2-ROM-openwrt-LEDE/releases/
 此处不提供代码及刷机教程，只提供编译好的刷机镜像，相关代码信息见感谢，教程自行搜索。
 
 感谢：[https://github.com/MrTaiKe/](https://github.com/MrTaiKe/Action_OpenWrt_Xiaomi_R4AGv2)
+
      [https://github.com/coolsnowwolf/lede](https://github.com/coolsnowwolf/lede)
 
