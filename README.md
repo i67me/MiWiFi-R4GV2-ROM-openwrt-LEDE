@@ -1,5 +1,5 @@
 # MiWiFi-R4GV2-ROM-openwrt-LEDE
-小米路由器4A千兆版v2版本openwrt编译成品固件（适用于2022年以后的R4A千兆版固件版本大于v2.30.20）
+小米路由器4A千兆版v2版本openwrt编译成品固件（适用于2022年以后的R4A，千兆版固件版本大于v2.30.20）
 
 下载：
 https://github.com/i67me/MiWiFi-R4GV2-ROM-openwrt-LEDE/releases/
